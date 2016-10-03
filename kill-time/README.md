@@ -1,3 +1,4 @@
 # 闲暇时间
-* [看](watch.md)
-* [听](listen.md)
+* [视频](watch.md)
+* [播客](listen.md)
+* [小说](novels.md)
