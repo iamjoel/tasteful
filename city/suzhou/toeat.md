@@ -4,3 +4,5 @@
 * 金色三麦 德国菜
 * 祖母的厨房：美国菜
 * 韦复兴：阳春面
+* [老船长海鲜大咖](http://www.dianping.com/shop/24609879) 望京小腰
+* [蚝庄](http://www.dianping.com/shop/3263992)
