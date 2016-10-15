@@ -6,3 +6,4 @@
 * 韦复兴：阳春面
 * [老船长海鲜大咖](http://www.dianping.com/shop/24609879) 望京小腰
 * [蚝庄](http://www.dianping.com/shop/3263992)
+* 重庆刘一手毛肚火锅 邻瑞广场四楼
