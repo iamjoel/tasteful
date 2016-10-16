@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+}
+ul,li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#main {
+  width: 960px;
+  margin: 0 auto;
+}
+.prod-list{
+  font-size: 0;
+}
+
+.prod-list__item{
+  display: inline-block;
+  position: relative;
+  margin-bottom: 10px;
+  width: 22%;
+}
+
+.prod-list__item a,.prod-list__item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.prod-list__item-price{
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  padding: 3px 5px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 3px;
+  background-color: #fff;
+}
