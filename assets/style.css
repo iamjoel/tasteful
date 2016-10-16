@@ -8,8 +8,10 @@ ul,li{
 }
 #main {
   width: 960px;
+  max-width: 100%;
   margin: 0 auto;
 }
+
 .prod-list{
   font-size: 0;
 }
@@ -19,6 +21,10 @@ ul,li{
   position: relative;
   margin-bottom: 10px;
   width: 22%;
+}
+
+@media screen and (max-width: 768px) {
+  .prod-list__item { width: 44%; }
 }
 
 .prod-list__item a,.prod-list__item img{
