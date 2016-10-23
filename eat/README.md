@@ -18,4 +18,5 @@
 ## 餐厅体验
 * 米其林/米芝莲系列
   * [天空龙吟](http://www.jianshu.com/p/cce087332612)
+  * [据说最近流行吐槽上海新上榜的米其林三星唐阁？](https://zhuanlan.zhihu.com/p/22583337)
 
