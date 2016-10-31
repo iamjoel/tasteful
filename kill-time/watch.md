@@ -35,3 +35,10 @@
 # 日剧
 * 半泽直树
 * Legal High(胜者即是正义) 目前出两季
+
+## 想看的
+* [西部世界](http://www.ydybt.com/meiju/XiBuShiJieDiYiJi.html)
+* 罪恶之夜(The Night of)
+
+## 资源
+* 青衫磊落:介绍美剧的微信公众号
