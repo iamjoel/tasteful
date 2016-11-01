@@ -16,6 +16,9 @@
 ## 其他
 * 怀石料理
 
+## 食材产地
+* [獐子岛](http://baike.baidu.com/view/133162.htm) 海洋牧场;旅游
+
 ## 餐厅体验
 * 米其林/米芝莲系列
   * [天空龙吟](http://www.jianshu.com/p/cce087332612)
