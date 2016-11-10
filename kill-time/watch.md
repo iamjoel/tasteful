@@ -11,6 +11,9 @@
   * 唐唐脱口秀
   * 神街访
 
+## 其他
+* [胥渡吧](http://www.xuduba.tv/) 神配音。
+
 ## 动画
 ### 追剧
 * [海贼王](http://www.iqiyi.com/lib/m_200067914.html?src=search)
