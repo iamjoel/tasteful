@@ -2,6 +2,7 @@
 ## 脱口秀
 * [晓松奇谈](http://www.iqiyi.com/a_19rrgifngp.html?vfm=2008_aldbd) 高晓松开谈天文地理，海外见闻，中西野史
 * [职人介绍所](http://v.qq.com/vplus/zhihuhallofpro) 知乎官方出品的一档访谈类视频节目。和各种各样的职业人聊天。
+* [一席](http://yixi.tv/) 听君一席话，胜读十年书。中国的 TED。
 * [一千零一夜](http://www.youku.com/show_page/id_z7c87f1ae8e6311e5b522.html?spm=a2h0j.8191423.subscription_wrap.DD~A)  梁文道
 * [陈丹青](http://list.youku.com/star/show/uid_UMTQ4MjI2OA==)
   * 局部 第一季
@@ -14,9 +15,8 @@
   * 暴走大事件
   * 唐唐脱口秀
   * 神街访
-
-## 其他
-* [胥渡吧](http://www.xuduba.tv/) 神配音。
+  * [Bonnie看剧](http://www.miaopai.com/u/paike_i86uo2gy1c)
+  * [胥渡吧](http://www.xuduba.tv/) 神配音。
 
 ## 动画
 ### 追剧
