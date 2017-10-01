@@ -25,6 +25,7 @@
 ### 想再看的
 * 全金属狂潮
 * Fate Stay Night
+  * [Fate/Apocrypha](http://bangumi.bilibili.com/anime/6301)
 * 反叛的鲁鲁修
 * 高达00
 
