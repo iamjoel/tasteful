@@ -140,6 +140,7 @@ Westeteren 的格调最高。过去几年一直雄踞世界啤酒排行榜第一
 
 ## 资源
 * http://ratebeer.com/ 啤酒排名网站
+* [酒花儿](https://www.jiuhuar.com/) 国内的。有很多啤酒的测评。
 * [BJCP世界啤酒分类指南中文2015版.pdf](https://pan.baidu.com/s/1gd8VJGn)
 * [微信公众号：重新定义啤酒](https://mp.weixin.qq.com/s/MSuA-rODJwvQC72KKQKWVA##)
 * [啤博士漫谈啤酒](https://zhuanlan.zhihu.com/piboshi)
