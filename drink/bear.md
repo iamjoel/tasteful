@@ -4,6 +4,14 @@
 ## 分类
 根据发酵工艺的不同可以将啤酒分为: 艾尔(Ale) 和 拉格（Lager）,自然发酵啤酒(Wild)。艾尔，拉格，自然发酵啤酒，用的酵母也是不同的。
 
+## 描述啤酒的基本特征
+* 外观
+* 香气
+* 味道
+* 口感
+
+评价啤酒从 香气，苦味，甜味，平衡，整体。 
+
 ### 艾尔(Ale)
 艾尔:酵母在桶顶部发酵，温度略高，发酵时间短。艾尔更突出酵母味、麦芽味、啤酒花味。
 
@@ -93,6 +101,8 @@ Rochefort 在出厂前，会将发酵好的啤酒分别熟成6，8，10周，为
 
 修道院风格啤酒分为真正由修道士亲身参与酿制的Trappist(几个修道院联合在了一起，叫做特拉普联盟(Trappist))，和授权非修道院酒厂制作的Abbey Beer。目前存在的Trappist酿酒厂只有5间：Orval、Chimay、Westmalle、Rochefort与Westeteren。修道院风格啤酒：用侍献上帝的精神来酿酒。
 
+Westeteren 的格调最高。
+
 [购买地址](https://item.taobao.com/item.htm?spm=2013.1.20141002.6.3b4d6a42ZVXrtL&scm=1007.10009.70205.100200300000001&id=45886957035&pvid=be1e0ed5-f66a-482a-b1a7-3ba6c9b088c8)
 
 ### 布鲁克林IPA
@@ -105,13 +115,26 @@ Rochefort 在出厂前，会将发酵好的啤酒分别熟成6，8，10周，为
 
 替代酒款：Left Hand Milk Stout(左手牛奶世涛)，Lancaster Milk Stout(兰开斯特牛奶世涛)，Samuel Smith Cream Stout(山姆史密斯牛奶世涛)
 
+### 福佳白啤酒
+比利时小麦风格啤酒（Belgium Wit）对精酿啤酒在中国的普及，却是起了最重要的作用。
+国内这种风格啤酒的代表就是福佳（Hoegarrden）。福佳作为一款极其成功地进入我国的比利时小麦啤酒，在色香味和包装上极大地迎合了中国人的消费习惯,让许多中国人通过它认识了比利时啤酒进而认识了精酿啤酒。
+
+## 值得尝试的品牌
+* 酿酒狗(Brewdog)
+* 俄罗斯河(Russian River) 特别是双料印度淡啤（Double IPA）
+* 鹅岛(Goose Island)
+* 健力士 的 世涛。
+
+
 ## 推荐店
 * [上海启德酒水直供店](https://shqidemaoyi.taobao.com/?spm=a1z0b.7.0.0.4ded3607wdizBR)
 
 ## 资源
 * http://ratebeer.com/ 啤酒排名网站
 * [BJCP世界啤酒分类指南中文2015版.pdf](https://pan.baidu.com/s/1gd8VJGn)
+* [微信公众号：重新定义啤酒](https://mp.weixin.qq.com/s/MSuA-rODJwvQC72KKQKWVA##)
 * [啤博士漫谈啤酒](https://zhuanlan.zhihu.com/piboshi)
+* 《喝自己酿的酒》 高大师
 
 ## 推荐文章
 * [一个啤酒爱好者对精酿啤酒的科普与推荐](https://www.jianshu.com/p/605a0056e417)
