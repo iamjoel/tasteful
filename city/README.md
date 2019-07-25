@@ -22,12 +22,14 @@
   * 华南
     * 深圳
     * 广东
-      * [广州](guangzhou)
+      * [广州](guangdong/guangzhou)
       * 东莞
+      * [惠州](guangdong/惠州.md)
     * 广西
       * 南宁
       * 桂林。阳朔县。
       * [柳州](guangxi/柳州.md)
+      * [北海](guangxi/北海.md)
   * 华北
     * [北京](beijing)
   * 西南
