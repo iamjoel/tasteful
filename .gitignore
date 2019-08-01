@@ -45,5 +45,5 @@ dist
 ## source map
 *.map
 
-
+.DS_Store
 
