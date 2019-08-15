@@ -28,6 +28,7 @@
       * [广州](guangdong/guangzhou)
       * 东莞
       * [惠州](guangdong/惠州.md)
+    * [澳门](guangdong/澳门.md)
     * 广西
       * 南宁
       * 桂林。阳朔县。
